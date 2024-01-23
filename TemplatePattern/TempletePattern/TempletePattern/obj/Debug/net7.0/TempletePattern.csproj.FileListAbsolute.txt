@@ -1,0 +1,15 @@
+E:\projects\SelfStudy\DesignPattern\TemplatePattern\TempletePattern\TempletePattern\bin\Debug\net7.0\TempletePattern.exe
+E:\projects\SelfStudy\DesignPattern\TemplatePattern\TempletePattern\TempletePattern\bin\Debug\net7.0\TempletePattern.deps.json
+E:\projects\SelfStudy\DesignPattern\TemplatePattern\TempletePattern\TempletePattern\bin\Debug\net7.0\TempletePattern.runtimeconfig.json
+E:\projects\SelfStudy\DesignPattern\TemplatePattern\TempletePattern\TempletePattern\bin\Debug\net7.0\TempletePattern.dll
+E:\projects\SelfStudy\DesignPattern\TemplatePattern\TempletePattern\TempletePattern\bin\Debug\net7.0\TempletePattern.pdb
+E:\projects\SelfStudy\DesignPattern\TemplatePattern\TempletePattern\TempletePattern\obj\Debug\net7.0\TempletePattern.csproj.AssemblyReference.cache
+E:\projects\SelfStudy\DesignPattern\TemplatePattern\TempletePattern\TempletePattern\obj\Debug\net7.0\TempletePattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\SelfStudy\DesignPattern\TemplatePattern\TempletePattern\TempletePattern\obj\Debug\net7.0\TempletePattern.AssemblyInfoInputs.cache
+E:\projects\SelfStudy\DesignPattern\TemplatePattern\TempletePattern\TempletePattern\obj\Debug\net7.0\TempletePattern.AssemblyInfo.cs
+E:\projects\SelfStudy\DesignPattern\TemplatePattern\TempletePattern\TempletePattern\obj\Debug\net7.0\TempletePattern.csproj.CoreCompileInputs.cache
+E:\projects\SelfStudy\DesignPattern\TemplatePattern\TempletePattern\TempletePattern\obj\Debug\net7.0\TempletePattern.dll
+E:\projects\SelfStudy\DesignPattern\TemplatePattern\TempletePattern\TempletePattern\obj\Debug\net7.0\refint\TempletePattern.dll
+E:\projects\SelfStudy\DesignPattern\TemplatePattern\TempletePattern\TempletePattern\obj\Debug\net7.0\TempletePattern.pdb
+E:\projects\SelfStudy\DesignPattern\TemplatePattern\TempletePattern\TempletePattern\obj\Debug\net7.0\TempletePattern.genruntimeconfig.cache
+E:\projects\SelfStudy\DesignPattern\TemplatePattern\TempletePattern\TempletePattern\obj\Debug\net7.0\ref\TempletePattern.dll
