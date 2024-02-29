@@ -1,0 +1,15 @@
+E:\projects\SelfStudy\DesignPattern\StatePattern\StatePattern\StatePattern\bin\Debug\net7.0\StatePattern.exe
+E:\projects\SelfStudy\DesignPattern\StatePattern\StatePattern\StatePattern\bin\Debug\net7.0\StatePattern.deps.json
+E:\projects\SelfStudy\DesignPattern\StatePattern\StatePattern\StatePattern\bin\Debug\net7.0\StatePattern.runtimeconfig.json
+E:\projects\SelfStudy\DesignPattern\StatePattern\StatePattern\StatePattern\bin\Debug\net7.0\StatePattern.dll
+E:\projects\SelfStudy\DesignPattern\StatePattern\StatePattern\StatePattern\bin\Debug\net7.0\StatePattern.pdb
+E:\projects\SelfStudy\DesignPattern\StatePattern\StatePattern\StatePattern\obj\Debug\net7.0\StatePattern.csproj.AssemblyReference.cache
+E:\projects\SelfStudy\DesignPattern\StatePattern\StatePattern\StatePattern\obj\Debug\net7.0\StatePattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\SelfStudy\DesignPattern\StatePattern\StatePattern\StatePattern\obj\Debug\net7.0\StatePattern.AssemblyInfoInputs.cache
+E:\projects\SelfStudy\DesignPattern\StatePattern\StatePattern\StatePattern\obj\Debug\net7.0\StatePattern.AssemblyInfo.cs
+E:\projects\SelfStudy\DesignPattern\StatePattern\StatePattern\StatePattern\obj\Debug\net7.0\StatePattern.csproj.CoreCompileInputs.cache
+E:\projects\SelfStudy\DesignPattern\StatePattern\StatePattern\StatePattern\obj\Debug\net7.0\StatePattern.dll
+E:\projects\SelfStudy\DesignPattern\StatePattern\StatePattern\StatePattern\obj\Debug\net7.0\refint\StatePattern.dll
+E:\projects\SelfStudy\DesignPattern\StatePattern\StatePattern\StatePattern\obj\Debug\net7.0\StatePattern.pdb
+E:\projects\SelfStudy\DesignPattern\StatePattern\StatePattern\StatePattern\obj\Debug\net7.0\StatePattern.genruntimeconfig.cache
+E:\projects\SelfStudy\DesignPattern\StatePattern\StatePattern\StatePattern\obj\Debug\net7.0\ref\StatePattern.dll
